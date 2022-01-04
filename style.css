@@ -46,6 +46,14 @@ h1.temp {
     /* display: flex; */
     justify-content: center;
     text-align: center;
+
+  
+  }
+  @media (max-width:768px) {
+    .card{
+      max-width: 70%;
+    }
+    
   }
 
 /* .city{
@@ -116,4 +124,6 @@ h1.temp {
     top: 0;
     left: 20px;
   }
+
+  
  
