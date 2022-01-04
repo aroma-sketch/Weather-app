@@ -55,6 +55,14 @@ h1.temp {
     }
     
   }
+  @media (max-width:768px) {
+    body{
+      height: 90vh;
+      background:no-repeat;
+    }
+    
+  } 
+
 
 /* .city{
   text-transform: uppercase;
